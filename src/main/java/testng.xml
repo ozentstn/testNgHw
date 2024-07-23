@@ -1,0 +1,7 @@
+<suite name="Test Suite" verbose="1" parallel="true" thread-count="11">
+    <test name="Muhasebe Hw Test">
+        <classes>
+            <class name="test.MuhasebePrimTest"/>
+        </classes>
+    </test>
+</suite>
